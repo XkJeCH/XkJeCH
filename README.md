@@ -75,7 +75,7 @@
     <a href="https://www.nginx.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="36" height="36" alt="Nginx" /></a>
      <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" width="36" height="36" alt="Kotlin" /></a>
     <a href="https://httpd.apache.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg" width="36" height="36" alt="Apache" /></a>
-    <a href="https://www.apachefriends.org/index.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xampp/xampp-original.svg" width="36" height="36" alt="XAMPP" /></a>
+  <a href="https://www.apachefriends.org/index.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xampp/xampp-original-wordmark.svg" width="36" height="36" alt="XAMPP" /></a>
     <a href="https://www.phpmyadmin.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/phpmyadmin/phpmyadmin-original.svg" width="36" height="36" alt="phpMyAdmin" /></a>
     <a href="https://www.canva.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg" width="36" height="36" alt="Canva" /></a>
     <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="36" height="36" alt="Linux" /></a>
