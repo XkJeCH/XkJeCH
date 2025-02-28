@@ -66,13 +66,13 @@
     <a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" width="36" height="36" alt=".NET" /></a>
     <a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="36" height="36" alt="Laravel" /></a>
     <a href="https://store.arduino.cc/?gclid=Cj0KCQjw2eilBhCCARIsAG0Pf8uueBifykWcsSS4LPESeGQfxGVKJYnzV7bz471XfknQJy_1VINVWM8aAkLtEALw_wcB" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arduino-colored.svg" width="36" height="36" alt="Arduino" /></a>
-    <a href="https://github.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/github-colored.svg" width="36" height="36" alt="GitHub" /></a>
-    <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a>
-    <a href="https://www.eclipse.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/eclipse-colored.svg" width="36" height="36" alt="Eclipse" /></a>
-    <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/androidstudio-colored.svg" width="36" height="36" alt="Android Studio" /></a>
+ <a href="https://github.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/npm/devicons@2.2.0/devicon.min.css/icons/github/github-original.svg" width="36" height="36" alt="GitHub" /></a>
+     <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/npm/devicons@2.2.0/devicon.min.css/icons/vscode/vscode-original.svg" width="36" height="36" alt="VS Code" /></a>
+    <a href="https://www.eclipse.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/npm/devicons@2.2.0/devicon.min.css/icons/eclipse/eclipse-original.svg" width="36" height="36" alt="Eclipse" /></a>
+   <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/npm/devicons@2.2.0/devicon.min.css/icons/androidstudio/androidstudio-original.svg" width="36" height="36" alt="Android Studio" /></a>
     <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a>
-    <a href="https://www.postman.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postman-colored.svg" width="36" height="36" alt="Postman" /></a>
-    <a href="https://www.nginx.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nginx-colored.svg" width="36" height="36" alt="Nginx" /></a>
+   <a href="https://www.postman.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/npm/devicons@2.2.0/devicon.min.css/icons/postman/postman-original.svg" width="36" height="36" alt="Postman" /></a>
+       <a href="https://www.nginx.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/npm/devicons@2.2.0/devicon.min.css/icons/nginx/nginx-original.svg" width="36" height="36" alt="Nginx" /></a>
 </p>
 
 ## Contact
