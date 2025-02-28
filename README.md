@@ -1,7 +1,7 @@
 
-Hi 👋 My name is Chanin Butrod
+Hi 👋 
 ==============================
-Now, I'm a student at KhonKaen University, College of Computing, B.A.Information Technology, Track of Network Systems, Information Security, and Internet of Things (IoT). I'm currently learning about Network System & Cybey Security. I’m interested in Network & Cyber Security.
+My name is Chanin Butrod.Now, I'm a student at KhonKaen University, College of Computing, B.A.Information Technology, Track of Network Systems, Information Security, and Internet of Things (IoT). I'm currently learning about Network System & Cybey Security. I’m interested in Network & Cyber Security.
 
 
 * 🌍  I'm based in Khonkaen, Thailand
@@ -66,7 +66,9 @@ Now, I'm a student at KhonKaen University, College of Computing, B.A.Information
     <a href="https://www.nginx.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nginx-colored.svg" width="36" height="36" alt="Nginx" /></a>
 </p>
 
-### * ✉️  You can contact me at [chanin.bu@kkumail.com](mailto:chanin.bu@kkumail.com)
+## Contact
+
+* ✉️  You can contact me at [chanin.bu@kkumail.com](mailto:chanin.bu@kkumail.com)
 
 ### Socials
 
