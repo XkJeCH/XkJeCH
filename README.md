@@ -1,7 +1,9 @@
-# Hi! I'm Chanin Butrod
-=====================================================================================================================================
 
-I’m interested in Network & Cyber Security.
+# About me :
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Chanin Butrod.
+y name is Supphitan Pakwad. Now, I'm a student at KhonKaen University, College of Computing, B.A.Information Technology, Track of Network Systems, Information Security, and Internet of Things (IoT). I'm currently learning about Network System & Cybey Security.
+
+
 
 * 🌍  I'm based in Khonkaen, Thailand
 * ✉️  You can contact me at [chanin.bu@kkumail.com](mailto:chanin.bu@kkumail.com)
