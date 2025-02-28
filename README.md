@@ -1,7 +1,10 @@
 
 Hi 👋 
 ==============================
-My name is Chanin Butrod. Now, I'm a student at KhonKaen University, College of Computing, B.A.Information Technology, Track of Network Systems, Information Security, and Internet of Things (IoT). I'm currently learning about Network System & Cybey Security. I’m interested in Network & Cyber Security.
+My name is Chanin Butrod. Now, I'm a student at KhonKaen University, College of Computing, B.A.Information Technology, 
+Track of Network Systems, Information Security, and Internet of Things (IoT). 
+* 🌍 I'm currently learning about Network System & Cybey Security. 
+* 🌍 I’m interested in Network & Cyber Security.
 
 
 * 🌍  I'm based in Khonkaen, Thailand
