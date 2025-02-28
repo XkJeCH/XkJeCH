@@ -6,10 +6,11 @@ I’m interested in Network & Cyber Security.
 * 🌍  I'm based in Khonkaen, Thailand
 * ✉️  You can contact me at [chanin.bu@kkumail.com](mailto:chanin.bu@kkumail.com)
 
-### Languages & Tools
+## Languages & Tools
+
+#### Languages
 
 <p align="left">
-    #### Languages :
     <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a>
     <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
@@ -20,7 +21,6 @@ I’m interested in Network & Cyber Security.
 
 #### Tools
 
-<!-- Tools -->
 <p align="left">
     <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a>
 </p>
