@@ -1,12 +1,20 @@
 
 # About me :
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Chanin Butrod.
-y name is Supphitan Pakwad. Now, I'm a student at KhonKaen University, College of Computing, B.A.Information Technology, Track of Network Systems, Information Security, and Internet of Things (IoT). I'm currently learning about Network System & Cybey Security.
+Now, I'm a student at KhonKaen University, College of Computing, B.A.Information Technology, Track of Network Systems, Information Security, and Internet of Things (IoT). I'm currently learning about Network System & Cybey Security.
 
 
 
 * 🌍  I'm based in Khonkaen, Thailand
 * ✉️  You can contact me at [chanin.bu@kkumail.com](mailto:chanin.bu@kkumail.com)
+
+## Stats
+
+<a href="https://github.com/XkJeCH" align="left">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XkJeCH&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
+</a>
+
+
 
 ## Languages & Tools
 
@@ -77,8 +85,3 @@ y name is Supphitan Pakwad. Now, I'm a student at KhonKaen University, College o
     </a>
 </p>
 
-### Badges
-
-<a href="https://github.com/XkJeCH" align="left">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XkJeCH&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
-</a>
