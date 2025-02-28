@@ -74,8 +74,6 @@
     <a href="https://www.nginx.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="36" height="36" alt="Nginx" /></a>
     <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" width="36" height="36" alt="Kotlin" /></a>
     <a href="https://httpd.apache.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg" width="36" height="36" alt="Apache" /></a>
-    <a href="https://www.apachefriends.org/index.html" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a6/XAMPP_Logo_2018.png" width="36" height="36" alt="XAMPP" /></a>
-    <a href="https://www.phpmyadmin.net/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/e/e4/PhpMyAdmin_logo.svg" width="36" height="36" alt="phpMyAdmin" /></a>
     <a href="https://www.canva.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg" width="36" height="36" alt="Canva" /></a>
     <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="36" height="36" alt="Linux" /></a>
 </p>
