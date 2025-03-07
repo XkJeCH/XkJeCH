@@ -1,29 +1,24 @@
-
 ## About me : 
-<p>👋 Hi, my name is <strong>Chanin Butrod</strong>.</p>
-<p>🎓 I am currently a student at <strong>KhonKaen University</strong>, College of Computing, pursuing a B.A. in <strong>Information Technology</strong>.</p>
-<p>📚 My track is on the <strong>Network Systems, Information Security, and Internet of Things (IoT)</strong>.</p>
-<p>🌍 I'm currently learning about <strong>Network System & Cyber Security.</strong></p>
-<p>🔐 I’m interested in <strong>Network & Cyber Security.</strong></p>
-<p>📍 I'm based in <strong>Khonkaen, Thailand.</strong></p>
-
+<p align="center">👋 Hi, my name is <strong>Chanin Butrod</strong>.</p>
+<p align="center">🎓 I am currently a student at <strong>KhonKaen University</strong>, College of Computing, pursuing a B.A. in <strong>Information Technology</strong>.</p>
+<p align="center">📚 My track is on the <strong>Network Systems, Information Security, and Internet of Things (IoT)</strong>.</p>
+<p align="center">🌍 I'm currently learning about <strong>Network System & Security.</strong></p>
+<p align="center">🔐 I’m interested in <strong>Network & Cyber Security.</strong></p>
+<p align="center">📍 I'm based in <strong>Khonkaen, Thailand.</strong></p>
 
 ## Stats
-📊 Here are some stats about my work and skills.
 
-<a href="https://github.com/XkJeCH" align="left">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XkJeCH&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
-</a>
+<div align="center">
+    <a href="https://github.com/XkJeCH">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XkJeCH&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
+    </a>
+</div>
 
-
-
-## Languages & Tools
-🛠️ Technologies I use to build amazing things.
+## 🛠️ Languages & Tools
 
 
 ### 💻 Languages
-#### Programming languages I work with:
-<p align="left">
+<p align="center">
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML" /></a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS" /></a>
     <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
@@ -34,8 +29,7 @@
 </p>
 
 ### 💾 Database
-#### Databases I use for storing and managing data:
-<p align="left">
+<p align="center">
     <a href="https://www.oracle.com/uk/index.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/oracle-colored.svg" width="36" height="36" alt="Oracle" /></a>
     <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
@@ -43,8 +37,7 @@
 </p>
 
 ### ⚙️ Frameworks
-#### Frameworks I use to build powerful applications:
-<p align="left">
+<p align="center">
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
     <a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="36" height="36" alt="JQuery" /></a>
@@ -57,12 +50,9 @@
     <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
     <a href="https://bun.sh/" target="_blank" rel="noreferrer"><img src="https://bun.sh/favicon.ico" width="36" height="36" alt="Bun" /></a>
 </p>
-</p>
-
 
 ### 🛠️ Tools
-#### The tools I use to streamline my work:
-<p align="left">
+<p align="center">
     <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
     <a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" width="36" height="36" alt=".NET" /></a>
     <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a>
@@ -78,15 +68,11 @@
     <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="36" height="36" alt="Linux" /></a>
 </p>
 
-
-
 ## Contact
 * ✉️  You can contact me at [chanin.bu@kkumail.com](mailto:chanin.bu@kkumail.com)
 
-
 ### 📱 Socials
-#### Let's connect on social media:
-<p align="left">
+<p align="center">
     <a href="https://www.github.com/XkJeCH" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
     </a>
@@ -97,4 +83,3 @@
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg" width="32" height="32" />
     </a>
 </p>
-
