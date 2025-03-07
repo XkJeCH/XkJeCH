@@ -73,7 +73,7 @@
 
 ### 📱 Socials
 <p align="center">
-    <a href="https://www.github.com/XkJeCH" target="_blank" rel="noreferrer">
+    <a href="https://www.github.com/Mewousduc" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
     </a>
     <a href="https://www.x.com/xkjcb88" target="_blank" rel="noreferrer">
